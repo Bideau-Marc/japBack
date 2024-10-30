@@ -1,0 +1,274 @@
+[
+    {
+        "translation": "tanuki",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "狸",
+                "hiragana": "たぬき",
+                "katakana": "タヌキ",
+                "romaji": "tanuki"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a une apparence de chien avec une queue épaisse, c'est un __________.'"
+    },
+    {
+        "translation": "lapin",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "兎",
+                "hiragana": "うさぎ",
+                "katakana": "ウサギ",
+                "romaji": "usagi"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a de grandes oreilles et aime les carottes, c'est un __________.'"
+    },
+    {
+        "translation": "vache",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "牛",
+                "hiragana": "うし",
+                "katakana": "ウシ",
+                "romaji": "ushi"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il donne du lait et a des cornes, c'est une __________.'"
+    },
+    {
+        "translation": "mouton",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "羊",
+                "hiragana": "ひつじ",
+                "katakana": "ヒツジ",
+                "romaji": "hitsuji"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a une laine douce et aime brouter l'herbe, c'est un __________.'"
+    },
+    {
+        "translation": "chèvre",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "山羊",
+                "hiragana": "やぎ",
+                "katakana": "ヤギ",
+                "romaji": "yagi"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a des cornes courbées et aime grimper, c'est une __________.'"
+    },
+    {
+        "translation": "cochon",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "豚",
+                "hiragana": "ぶた",
+                "katakana": "ブタ",
+                "romaji": "buta"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il aime se rouler dans la boue et fait 'groin', c'est un __________.'"
+    },
+    {
+        "translation": "cheval",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "馬",
+                "hiragana": "うま",
+                "katakana": "ウマ",
+                "romaji": "uma"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il court vite et a une crinière, c'est un __________.'"
+    },
+    {
+        "translation": "cerf",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "鹿",
+                "hiragana": "しか",
+                "katakana": "シカ",
+                "romaji": "shika"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a des bois ramifiés et vit dans les forêts, c'est un __________.'"
+    },
+    {
+        "translation": "poule",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "鶏",
+                "hiragana": "にわとり",
+                "katakana": "ニワトリ",
+                "romaji": "niwatori"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il donne des œufs et fait 'cot-cot', c'est une __________.'"
+    },
+    {
+        "translation": "écureuil",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "栗鼠",
+                "hiragana": "りす",
+                "katakana": "リス",
+                "romaji": "risu"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a une queue touffue et aime les noisettes, c'est un __________.'"
+    },
+    {
+        "translation": "hérisson",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "針鼠",
+                "hiragana": "はりねずみ",
+                "katakana": "ハリネズミ",
+                "romaji": "Hari nezumi"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a des piquants sur le dos et est très petit, c'est un __________.'"
+    },
+    {
+        "translation": "hamster",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "ハムスター",
+                "hiragana": "はむすたー",
+                "katakana": "ハムスター",
+                "romaji": "hamisutaー"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il stocke de la nourriture dans ses joues et court dans une roue, c'est un __________.'"
+    },
+    {
+        "translation": "furet",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "フェレット",
+                "hiragana": "ふぇれっと",
+                "katakana": "フェレット",
+                "romaji": "fu~eretto"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il est souvent vu en train de se faufiler dans des endroits étroits, c'est un __________.'"
+    },
+    {
+        "translation": "dromadaire",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "驢馬",
+                "hiragana": "ろば",
+                "katakana": "ロバ",
+                "romaji": "roba"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il porte des charges sur le dos et vit dans des déserts, c'est un __________.'"
+    },
+    {
+        "translation": "âne",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "鹿",
+                "hiragana": "しか",
+                "katakana": "シカ",
+                "romaji": "shika"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il est souvent utilisé comme bête de somme et a de grandes oreilles, c'est un __________.'"
+    },
+    {
+        "translation": "poule",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "鶏",
+                "hiragana": "にわとり",
+                "katakana": "ニワトリ",
+                "romaji": "niretoru"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Elle picore le sol et donne des œufs, c'est une __________.'"
+    },
+    {
+        "translation": "souris",
+        "representation": {
+            "japaneseWord": {
+                "kanji": "鼠",
+                "hiragana": "ねずみ",
+                "katakana": "ネズミ",
+                "romaji": "nezumi"
+            }
+        },
+        "theme": {
+            "language": "japonais",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il est petit et adore le fromage, c'est un __________.'"
+    }
+]

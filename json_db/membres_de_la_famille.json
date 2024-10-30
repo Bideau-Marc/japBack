@@ -1,0 +1,692 @@
+[
+    {
+        "word": "おっと",
+        "translation": "Mon époux",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon époux'.",
+            "additionalForms": {
+                "kanji": "おっと",
+                "hiragana": "おっと",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "妻",
+            "両親",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "妻",
+        "translation": "mon épouse",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon épouse'.",
+            "additionalForms": {
+                "kanji": "妻",
+                "hiragana": "つま",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "両親",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "両親",
+        "translation": "mes parents",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mes parents'.",
+            "additionalForms": {
+                "kanji": "両親",
+                "hiragana": "りょうしん",
+                "katakana": "リョウシン"
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "父",
+        "translation": "mon père",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon père'.",
+            "additionalForms": {
+                "kanji": "父",
+                "hiragana": "ちち",
+                "katakana": "チチ"
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "母"
+        ]
+    },
+    {
+        "word": "母",
+        "translation": "ma mère",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'ma mère'.",
+            "additionalForms": {
+                "kanji": "母",
+                "hiragana": "はは",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "子供",
+        "translation": "mon enfant",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon enfant'.",
+            "additionalForms": {
+                "kanji": "子供",
+                "hiragana": "こども",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "息子",
+        "translation": "mon fils",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon fils'.",
+            "additionalForms": {
+                "kanji": "息子",
+                "hiragana": "むすこ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "母"
+        ]
+    },
+    {
+        "word": "娘",
+        "translation": "ma fille",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'ma fille'.",
+            "additionalForms": {
+                "kanji": "娘",
+                "hiragana": "むすめ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "母"
+        ]
+    },
+    {
+        "word": "祖父母",
+        "translation": "mes grands-parents",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mes grands-parents'.",
+            "additionalForms": {
+                "kanji": "祖父母",
+                "hiragana": "",
+                "katakana": "ソフボ"
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "祖父",
+        "translation": "mon grand-père",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon grand-père'.",
+            "additionalForms": {
+                "kanji": "祖父",
+                "hiragana": "",
+                "katakana": "ソフ"
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "祖母",
+        "translation": "ma grand-mère",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'ma grand-mère'.",
+            "additionalForms": {
+                "kanji": "祖母",
+                "hiragana": "",
+                "katakana": "ソボ"
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "孫",
+        "translation": "mon petit-enfant",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon petit-enfant'.",
+            "additionalForms": {
+                "kanji": "孫",
+                "hiragana": "まご",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "双子",
+        "translation": "mon jumeau/jumelle",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon jumeau/jumelle'.",
+            "additionalForms": {
+                "kanji": "双子",
+                "hiragana": "ふたご",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "兄",
+        "translation": "mon frère (aîné)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon frère aîné'.",
+            "additionalForms": {
+                "kanji": "兄",
+                "hiragana": "あに",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "弟",
+        "translation": "mon frère (cadet)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon frère cadet'.",
+            "additionalForms": {
+                "kanji": "弟",
+                "hiragana": "おとうと",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "兄弟",
+        "translation": "mes frères/la fratrie",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mes frères' ou 'la fratrie'.",
+            "additionalForms": {
+                "kanji": "兄弟",
+                "hiragana": "",
+                "katakana": "キョウダイ"
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "姉",
+        "translation": "ma sœur (aînée)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'ma sœur aînée'.",
+            "additionalForms": {
+                "kanji": "姉",
+                "hiragana": "あね",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "妹",
+        "translation": "ma sœur (cadette)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'ma sœur cadette'.",
+            "additionalForms": {
+                "kanji": "妹",
+                "hiragana": "いもうと",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "従兄",
+        "translation": "mon cousin (aîné)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon cousin aîné'.",
+            "additionalForms": {
+                "kanji": "従兄",
+                "hiragana": "いとこ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "従兄姉",
+        "translation": "ma cousine (aînée)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'ma cousine aînée'.",
+            "additionalForms": {
+                "kanji": "従兄姉",
+                "hiragana": "いとこあね",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "従兄弟",
+        "translation": "mon cousin (cadet)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon cousin cadet'.",
+            "additionalForms": {
+                "kanji": "従兄弟",
+                "hiragana": "いとこおとうと",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "従兄妹",
+        "translation": "ma cousine (cadette)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'ma cousine cadette'.",
+            "additionalForms": {
+                "kanji": "従兄妹",
+                "hiragana": "いとこいもうと",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "おっと",
+            "妻",
+            "両親",
+            "父"
+        ]
+    },
+    {
+        "word": "伯父",
+        "translation": "mon oncle (aîné de son frère/sœur)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "____ est le mot japonais pour 'mon oncle aîné'.",
+            "additionalForms": {
+                "kanji": "伯父",
+                "hiragana": "おじ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "妻",
+            "両親",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "叔父",
+        "translation": "mon oncle (cadet de son frère/sœur)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'mon oncle cadet'.",
+            "additionalForms": {
+                "kanji": "叔父",
+                "hiragana": "おじ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "妻",
+            "両親",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "伯母",
+        "translation": "ma tante (aînée de son frère/sœur)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'ma tante aînée'.",
+            "additionalForms": {
+                "kanji": "伯母",
+                "hiragana": "おば",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "妻",
+            "両親",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "叔母",
+        "translation": "ma tante (cadette de son frère/sœur)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "_____ est le mot japonais pour 'ma tante cadette'.",
+            "additionalForms": {
+                "kanji": "叔母",
+                "hiragana": "おば",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "妻",
+            "両親",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "義兄",
+        "translation": "mon beau-frère (aîné)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "____ est le mot japonais pour 'mon beau-frère aîné'.",
+            "additionalForms": {
+                "kanji": "義兄",
+                "hiragana": "",
+                "katakana": "ギケイ"
+            }
+        },
+        "choices": [
+            "妻",
+            "両親",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "義弟",
+        "translation": "mon beau-frère (cadet)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "____ est le mot japonais pour 'mon beau-frère cadet'.",
+            "additionalForms": {
+                "kanji": "義弟",
+                "hiragana": "",
+                "katakana": "ギテイ"
+            }
+        },
+        "choices": [
+            "妻",
+            "両親",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "義姉",
+        "translation": "ma belle-sœur (aînée)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "____ est le mot japonais pour 'ma belle-sœur aînée'.",
+            "additionalForms": {
+                "kanji": "義姉",
+                "hiragana": "",
+                "katakana": "ギシ"
+            }
+        },
+        "choices": [
+            "妻",
+            "両親",
+            "父",
+            "母"
+        ]
+    },
+    {
+        "word": "義妹",
+        "translation": "ma belle-sœur (cadette)",
+        "theme": {
+            "language": "japonais",
+            "name": "Membres de la famille"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "____ est le mot japonais pour 'ma belle-sœur cadette'.",
+            "additionalForms": {
+                "kanji": "義妹",
+                "hiragana": "",
+                "katakana": "ギマイ"
+            }
+        },
+        "choices": [
+            "妻",
+            "両親",
+            "父",
+            "母"
+        ]
+    }
+]

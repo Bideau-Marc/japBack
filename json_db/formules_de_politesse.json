@@ -1,0 +1,646 @@
+[
+    {
+        "word": "はい",
+        "translation": "oui",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Un ____ est comme un pouce levé : il montre que tu es d'accord.",
+            "additionalForms": {
+                "kanji": "はい",
+                "hiragana": "はい",
+                "katakana": "ハイ"
+            }
+        },
+        "choices": [
+            "いいえ",
+            "おねがいします",
+            "ありがとう",
+            "ありがとうございます"
+        ]
+    },
+    {
+        "word": "いいえ",
+        "translation": "non",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Un ____ est comme un panneau d'arrêt : il signifie que tu n'es pas d'accord.",
+            "additionalForms": {
+                "kanji": "いいえ",
+                "hiragana": "いいえ",
+                "katakana": "イイエ"
+            }
+        },
+        "choices": [
+            "はい",
+            "おねがいします",
+            "ありがとう",
+            "ありがとうございます"
+        ]
+    },
+    {
+        "word": "おねがいします",
+        "translation": "svp",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Quand tu veux quelque chose poliment, tu dis ____.",
+            "additionalForms": {
+                "kanji": "お願いします",
+                "hiragana": "おねがいします",
+                "katakana": "オネガイシマス"
+            }
+        },
+        "choices": [
+            "ありがとう",
+            "すみません",
+            "ごめん",
+            "こんにちは"
+        ]
+    },
+    {
+        "word": "ありがとう",
+        "translation": "merci",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Un ____ est comme un câlin verbal pour montrer ta gratitude.",
+            "additionalForms": {
+                "kanji": "ありがとう",
+                "hiragana": "ありがとう",
+                "katakana": "アリガトウ"
+            }
+        },
+        "choices": [
+            "ありがとうございます",
+            "ごめん",
+            "すみません",
+            "おつかれさまでした"
+        ]
+    },
+    {
+        "word": "ありがとうございます",
+        "translation": "merci poli",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Quand tu veux être super poli, tu utilises ____ pour dire merci.",
+            "additionalForms": {
+                "kanji": "ありがとうございます",
+                "hiragana": "ありがとうございます",
+                "katakana": "アリガトウゴザイマス"
+            }
+        },
+        "choices": [
+            "ありがとう",
+            "ごめん",
+            "すみません",
+            "おつかれさまでした"
+        ]
+    },
+    {
+        "word": "どういたしまして",
+        "translation": "de rien",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Après que quelqu'un te remercie, tu peux dire ____.",
+            "additionalForms": {
+                "kanji": "どういたしまして",
+                "hiragana": "どういたしまして",
+                "katakana": "ドウイタシマシテ"
+            }
+        },
+        "choices": [
+            "ありがとう",
+            "すみません",
+            "おつかれさまでした",
+            "いただきます"
+        ]
+    },
+    {
+        "word": "こんにちは",
+        "translation": "bonjour",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Quand tu vois quelqu'un pendant la journée, tu peux lui dire ____.",
+            "additionalForms": {
+                "kanji": "こんにちは",
+                "hiragana": "こんにちは",
+                "katakana": "コンニチハ"
+            }
+        },
+        "choices": [
+            "こんばんは",
+            "おはよう(ございます)",
+            "さよなら",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "おはよう(ございます)",
+        "translation": "bonjour du matin (poli)",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour saluer quelqu'un le matin, tu dis ____.",
+            "additionalForms": {
+                "kanji": "おはようございます",
+                "hiragana": "おはようございます",
+                "katakana": "オハヨウゴザイマス"
+            }
+        },
+        "choices": [
+            "こんにちは",
+            "こんばんは",
+            "さよなら",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "こんばんは",
+        "translation": "bonsoir",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Le soir, tu utilises ____ pour dire bonjour.",
+            "additionalForms": {
+                "kanji": "こんばんは",
+                "hiragana": "こんばんは",
+                "katakana": "コンバンハ"
+            }
+        },
+        "choices": [
+            "こんにちは",
+            "おはよう(ございます)",
+            "さよなら",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "お元気ですか",
+        "translation": "comment ça va",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Pour demander comment quelqu'un se porte, tu peux dire ____.",
+            "additionalForms": {
+                "kanji": "お元気ですか",
+                "hiragana": "おげんきですか",
+                "katakana": "オゲンキデスカ"
+            }
+        },
+        "choices": [
+            "はい",
+            "いいえ",
+            "おねがいします",
+            "ありがとうございます"
+        ]
+    },
+    {
+        "word": "はい，元気です",
+        "translation": "ça va",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Quand tout va bien et que quelqu'un demande, tu peux répondre ____.",
+            "additionalForms": {
+                "kanji": "はい，元気です",
+                "hiragana": "はい，げんきです",
+                "katakana": "ハイ，ゲンキデス"
+            }
+        },
+        "choices": [
+            "お元気ですか",
+            "いいえ",
+            "おねがいします",
+            "ありがとうございます"
+        ]
+    },
+    {
+        "word": "またね",
+        "translation": "au revoir",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Quand tu dis au revoir à un ami, tu peux dire ____.",
+            "additionalForms": {
+                "kanji": "またね",
+                "hiragana": "またね",
+                "katakana": "マタネ"
+            }
+        },
+        "choices": [
+            "さよなら",
+            "おやすみ",
+            "おかえり(なさい)",
+            "こんにちは"
+        ]
+    },
+    {
+        "word": "さよなら",
+        "translation": "au revoir (adieu)",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Si tu pars pour un moment, tu peux dire ____.",
+            "additionalForms": {
+                "kanji": "さよなら",
+                "hiragana": "さよなら",
+                "katakana": "サヨナラ"
+            }
+        },
+        "choices": [
+            "またね",
+            "おやすみ",
+            "おかえり(なさい)",
+            "こんにちは"
+        ]
+    },
+    {
+        "word": "おやすみ",
+        "translation": "bonne nuit",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Avant de dormir, tu dis ____ pour souhaiter une bonne nuit.",
+            "additionalForms": {
+                "kanji": "おやすみ",
+                "hiragana": "おやすみ",
+                "katakana": "オヤスミ"
+            }
+        },
+        "choices": [
+            "こんにちは",
+            "さよなら",
+            "またね",
+            "おかえり(なさい)"
+        ]
+    },
+    {
+        "word": "また明日",
+        "translation": "à demain",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Pour dire 'à demain', tu dis ____.",
+            "additionalForms": {
+                "kanji": "また明日",
+                "hiragana": "またあした",
+                "katakana": "マタアシタ"
+            }
+        },
+        "choices": [
+            "こんにちは",
+            "さよなら",
+            "おやすみ",
+            "またね"
+        ]
+    },
+    {
+        "word": "はじめまして",
+        "translation": "enchanté",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Quand tu rencontres quelqu'un pour la première fois, tu dis ____.",
+            "additionalForms": {
+                "kanji": "初めまして",
+                "hiragana": "はじめまして",
+                "katakana": "ハジメマシテ"
+            }
+        },
+        "choices": [
+            "こんにちは",
+            "おやすみ",
+            "さよなら",
+            "またね"
+        ]
+    },
+    {
+        "word": "どうぞ",
+        "translation": "je vous en prie (entrez)",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Pour inviter quelqu'un à entrer ou à prendre quelque chose, tu dis ____.",
+            "additionalForms": {
+                "kanji": "どうぞ",
+                "hiragana": "どうぞ",
+                "katakana": "ドウゾ"
+            }
+        },
+        "choices": [
+            "こんにちは",
+            "ありがとうございます",
+            "ごめん",
+            "おねがいします"
+        ]
+    },
+    {
+        "word": "いただきます",
+        "translation": "bon app",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Avant de commencer à manger, tu dis ____.",
+            "additionalForms": {
+                "kanji": "いただきます",
+                "hiragana": "いただきます",
+                "katakana": "イタダキマス"
+            }
+        },
+        "choices": [
+            "ごめん",
+            "おつかれさまでした",
+            "さよなら",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "ごめん",
+        "translation": "désolé",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Si tu veux t'excuser rapidement, tu dis ____.",
+            "additionalForms": {
+                "kanji": "ごめん",
+                "hiragana": "ごめん",
+                "katakana": "ゴメン"
+            }
+        },
+        "choices": [
+            "すみません",
+            "ありがとう",
+            "いただきます",
+            "さよなら"
+        ]
+    },
+    {
+        "word": "すみません",
+        "translation": "excusez-moi",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour attirer l'attention ou s'excuser plus formellement, tu dis ____.",
+            "additionalForms": {
+                "kanji": "済みません",
+                "hiragana": "すみません",
+                "katakana": "スミマセン"
+            }
+        },
+        "choices": [
+            "ごめん",
+            "ありがとう",
+            "おつかれさまでした",
+            "いただきます"
+        ]
+    },
+    {
+        "word": "おつかれさまでした",
+        "translation": "bon travail",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Pour dire 'merci pour le travail', tu dis ____.",
+            "additionalForms": {
+                "kanji": "お疲れ様でした",
+                "hiragana": "おつかれさまでした",
+                "katakana": "オツカレサマデシタ"
+            }
+        },
+        "choices": [
+            "ありがとう",
+            "ごめん",
+            "おやすみ",
+            "いただきます"
+        ]
+    },
+    {
+        "word": "いってきます",
+        "translation": "j'y vais",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Quand tu pars de chez toi et que tu vas revenir, tu dis ____.",
+            "additionalForms": {
+                "kanji": "行ってきます",
+                "hiragana": "いってきます",
+                "katakana": "イッテキマス"
+            }
+        },
+        "choices": [
+            "ただいま",
+            "いってらっしゃい",
+            "おかえり(なさい)",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "いってらっしゃい",
+        "translation": "bonne journée",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Pour souhaiter une bonne journée à quelqu'un qui part, tu dis ____.",
+            "additionalForms": {
+                "kanji": "行ってらっしゃい",
+                "hiragana": "いってらっしゃい",
+                "katakana": "イッテラッシャイ"
+            }
+        },
+        "choices": [
+            "いってきます",
+            "ただいま",
+            "おかえり(なさい)",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "ただいま",
+        "translation": "je suis rentré",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Quand tu rentres chez toi, tu dis ____.",
+            "additionalForms": {
+                "kanji": "ただいま",
+                "hiragana": "ただいま",
+                "katakana": "タダイマ"
+            }
+        },
+        "choices": [
+            "いってきます",
+            "いってらっしゃい",
+            "おかえり(なさい)",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "おかえり(なさい)",
+        "translation": "bon retour (poli)",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Quand quelqu'un rentre chez lui, tu peux dire ____.",
+            "additionalForms": {
+                "kanji": "お帰りなさい",
+                "hiragana": "おかえりなさい",
+                "katakana": "オカエリナサイ"
+            }
+        },
+        "choices": [
+            "いってきます",
+            "いってらっしゃい",
+            "ただいま",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "いらっしゃいませ",
+        "translation": "bienvenu (magasin)",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Quand quelqu'un entre dans un magasin, le vendeur peut dire ____.",
+            "additionalForms": {
+                "kanji": "いらっしゃいませ",
+                "hiragana": "いらっしゃいませ",
+                "katakana": "イラッシャイマセ"
+            }
+        },
+        "choices": [
+            "ようこそ",
+            "おかえり(なさい)",
+            "こんにちは",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "ようこそ",
+        "translation": "bienvenu",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Pour accueillir quelqu'un, tu dis ____.",
+            "additionalForms": {
+                "kanji": "ようこそ",
+                "hiragana": "ようこそ",
+                "katakana": "ヨウコソ"
+            }
+        },
+        "choices": [
+            "いらっしゃいませ",
+            "おかえり(なさい)",
+            "こんにちは",
+            "おやすみ"
+        ]
+    },
+    {
+        "word": "お邪魔します",
+        "translation": "je rentre (chez quelqu'un)",
+        "theme": {
+            "language": "japonais",
+            "name": "Formules de politesses"
+        },
+        "metadata": {
+            "partOfSpeech": "phrase",
+            "exemple": "Quand tu entres chez quelqu'un, tu dis ____ pour signaler que tu déranges.",
+            "additionalForms": {
+                "kanji": "お邪魔します",
+                "hiragana": "おじゃまします",
+                "katakana": "オジャマシマス"
+            }
+        },
+        "choices": [
+            "いらっしゃいませ",
+            "ようこそ",
+            "ただいま",
+            "おやすみ"
+        ]
+    }
+]

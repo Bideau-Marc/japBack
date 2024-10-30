@@ -1,0 +1,462 @@
+[
+    {
+        "word": "人",
+        "translation": "Une personne",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "On dit qu'une ____ a toujours une histoire fascinante à raconter !",
+            "additionalForms": {
+                "kanji": "人",
+                "hiragana": "ひと",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "男",
+            "女",
+            "子",
+            "日"
+        ]
+    },
+    {
+        "word": "男",
+        "translation": "Homme",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Si tu veux un bon conseil, demande toujours à un ____ : 'N'essaie pas de comprendre les femmes, il vaut mieux les écouter !",
+            "additionalForms": {
+                "kanji": "男",
+                "hiragana": "おとこ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "女",
+            "子",
+            "日"
+        ]
+    },
+    {
+        "word": "女",
+        "translation": "Femme",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Les ____ disent que le bonheur est dans les petites choses... surtout quand elles sont en chocolat !",
+            "additionalForms": {
+                "kanji": "女",
+                "hiragana": "おんな",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "子",
+            "日"
+        ]
+    },
+    {
+        "word": "子",
+        "translation": "Enfant",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Les ____ sont des experts en créativité, surtout lorsqu'il s'agit de créer des œuvres d'art... avec des crayons de couleur !",
+            "additionalForms": {
+                "kanji": "子",
+                "hiragana": "こ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "日"
+        ]
+    },
+    {
+        "word": "日",
+        "translation": "Soleil",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Quand le ____ se couche, même les super-héros doivent faire une pause !",
+            "additionalForms": {
+                "kanji": "日",
+                "hiragana": "",
+                "katakana": "ひ"
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "月",
+        "translation": "la lune",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "La ____ a un job très cool : elle éclaire les nuits et compte les étoiles en même temps !",
+            "additionalForms": {
+                "kanji": "月",
+                "hiragana": "つき",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "時",
+        "translation": "le temps",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Le ____ passe si vite quand on s'amuse... ou quand on attend la fin du mois pour le prochain salaire !",
+            "additionalForms": {
+                "kanji": "時",
+                "hiragana": "とき",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "水",
+        "translation": "l'eau",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "De ____ dans 20/30 ans y'en aura plus - JCVD",
+            "additionalForms": {
+                "kanji": "水",
+                "hiragana": "みず",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "火",
+        "translation": "le feu",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Un ____ dans l'âtre est le meilleur moyen de se réchauffer... et de faire griller des marshmallows !",
+            "additionalForms": {
+                "kanji": "火",
+                "hiragana": "ひ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "土",
+        "translation": "la terre",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "La ____ est un peu comme une éponge géante : elle absorbe tout ce qu'on lui donne, des graines aux secrets !",
+            "additionalForms": {
+                "kanji": "土",
+                "hiragana": "つち",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "風",
+        "translation": "le vent",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Le ____ est comme un magicien invisible : il fait danser les feuilles et s'amuse à nous décoiffer !",
+            "additionalForms": {
+                "kanji": "風",
+                "hiragana": "かぜ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "空",
+        "translation": "le ciel",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Le ____ est un immense tableau bleu où les nuages peignent leurs rêves et les avions leurs trajets !",
+            "additionalForms": {
+                "kanji": "空",
+                "hiragana": "そら",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "山",
+        "translation": "la montagne",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Les ____ sont des géants endormis qui aiment se faire admirer... et qui cachent des trésors sous leurs pieds !",
+            "additionalForms": {
+                "kanji": "山",
+                "hiragana": "やま",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "川",
+        "translation": "la rivière",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Une ____ est un serpent d'eau qui glisse paisiblement et murmure des secrets aux poissons !",
+            "additionalForms": {
+                "kanji": "川",
+                "hiragana": "かわ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "木",
+        "translation": "l'arbre",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Un ____ est comme un vieil ami : il est toujours là pour nous offrir de l'ombre et écouter nos histoires !",
+            "additionalForms": {
+                "kanji": "木",
+                "hiragana": "き",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "花",
+        "translation": "la fleur",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Les ____ sont les sourires colorés du jardin, qui disent toujours : 'Ne m'arrose pas trop, je n'aime pas les bains !",
+            "additionalForms": {
+                "kanji": "花",
+                "hiragana": "はな",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "雨",
+        "translation": "la pluie",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Quand le ____ tombe, c'est comme si le ciel avait décidé de faire une petite fête avec des gouttes de confettis !",
+            "additionalForms": {
+                "kanji": "雨",
+                "hiragana": "あめ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "雪",
+        "translation": "la neige",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "La ____ transforme le monde en un immense terrain de jeu où tout est silencieux et magique sous un manteau blanc !",
+            "additionalForms": {
+                "kanji": "雪",
+                "hiragana": "ゆき",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "金",
+        "translation": "l'argent",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "L'____ a le pouvoir de faire des rêves de richesse, mais n'oublie pas qu'il ne peut pas acheter le bonheur !",
+            "additionalForms": {
+                "kanji": "金",
+                "hiragana": "かね",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    },
+    {
+        "word": "刀",
+        "translation": "le sabre",
+        "theme": {
+            "language": "japonais",
+            "name": "Premier Kanji"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Un ____ est comme une épée de légende : il a des histoires épiques et peut faire des tranchées dans les pires adversités !",
+            "additionalForms": {
+                "kanji": "刀",
+                "hiragana": "かたな",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "人",
+            "男",
+            "女",
+            "子"
+        ]
+    }
+]

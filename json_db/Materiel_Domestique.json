@@ -1,0 +1,508 @@
+[
+    {
+        "word": "ソファー",
+        "translation": "canapé",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Après une longue journée, je me relaxe sur le ____ pour regarder la télé.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ソファー"
+            }
+        },
+        "choices": [
+            "ベット",
+            "ボールペン",
+            "ノト",
+            "カレンダ"
+        ]
+    },
+    {
+        "word": "ベット",
+        "translation": "lit",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Après avoir fini de lire, je vais me coucher dans mon ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ベット"
+            }
+        },
+        "choices": [
+            "ソファー",
+            "ボールペン",
+            "ノト",
+            "カレンダ"
+        ]
+    },
+    {
+        "word": "ボールペン",
+        "translation": "le stylo (à bille)",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Je prends un ____ pour écrire dans mon cahier.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ボールペン"
+            }
+        },
+        "choices": [
+            "ソファー",
+            "ベット",
+            "ノト",
+            "カレンダ"
+        ]
+    },
+    {
+        "word": "ノト",
+        "translation": "cahier",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour mes cours, j'utilise un ____ pour prendre des notes.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ノト"
+            }
+        },
+        "choices": [
+            "ソファー",
+            "ベット",
+            "ボールペン",
+            "カレンダ"
+        ]
+    },
+    {
+        "word": "カレンダ",
+        "translation": "calendrier",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour ne pas oublier mes rendez-vous, je consulte mon ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "カレンダ"
+            }
+        },
+        "choices": [
+            "ソファー",
+            "ベット",
+            "ボールペン",
+            "ノト"
+        ]
+    },
+    {
+        "word": "ラジオ",
+        "translation": "radio",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "J'écoute de la musique sur la ____ dans la cuisine.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ラジオ"
+            }
+        },
+        "choices": [
+            "ステレオ",
+            "テレビ",
+            "テレビジョン",
+            "カメラ"
+        ]
+    },
+    {
+        "word": "ステレオ",
+        "translation": "chaîne hi-fi",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour écouter de la musique avec un meilleur son, j'utilise ma ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ステレオ"
+            }
+        },
+        "choices": [
+            "ラジオ",
+            "テレビ",
+            "テレビジョン",
+            "カメラ"
+        ]
+    },
+    {
+        "word": "テレビ",
+        "translation": "TV",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Je regarde mes émissions préférées sur la ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "テレビ"
+            }
+        },
+        "choices": [
+            "ラジオ",
+            "ステレオ",
+            "テレビジョン",
+            "カメラ"
+        ]
+    },
+    {
+        "word": "テレビジョン",
+        "translation": "TV",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "La ____ est l'appareil que j'utilise pour regarder les actualités.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "テレビジョン"
+            }
+        },
+        "choices": [
+            "ラジオ",
+            "ステレオ",
+            "テレビ",
+            "カメラ"
+        ]
+    },
+    {
+        "word": "カメラ",
+        "translation": "appareil photo",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour prendre des photos lors des vacances, j'utilise une ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "カメラ"
+            }
+        },
+        "choices": [
+            "ラジオ",
+            "ステレオ",
+            "テレビ",
+            "コンピュタ"
+        ]
+    },
+    {
+        "word": "コンピュタ",
+        "translation": "ordinateur",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour travailler, j'utilise mon ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "コンピュタ"
+            }
+        },
+        "choices": [
+            "ラジオ",
+            "ステレオ",
+            "テレビ",
+            "パソコン"
+        ]
+    },
+    {
+        "word": "パソコン",
+        "translation": "PC",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Mon ____ est un outil essentiel pour ma vie professionnelle.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "パソコン"
+            }
+        },
+        "choices": [
+            "ラジオ",
+            "ステレオ",
+            "テレビ",
+            "コンピュタ"
+        ]
+    },
+    {
+        "word": "エアコン",
+        "translation": "climatiseur",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour rafraîchir la pièce en été, j'utilise l'____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "エアコン"
+            }
+        },
+        "choices": [
+            "リモコン",
+            "クレジットカード",
+            "ドア",
+            "ランプ"
+        ]
+    },
+    {
+        "word": "リモコン",
+        "translation": "télécommande",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour changer de chaîne sans bouger, j'utilise le ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "リモコン"
+            }
+        },
+        "choices": [
+            "エアコン",
+            "クレジットカード",
+            "ドア",
+            "ランプ"
+        ]
+    },
+    {
+        "word": "クレジットカード",
+        "translation": "carte bancaire",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour acheter en ligne, j'utilise ma ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "クレジットカード"
+            }
+        },
+        "choices": [
+            "エアコン",
+            "リモコン",
+            "ドア",
+            "ランプ"
+        ]
+    },
+    {
+        "word": "ドア",
+        "translation": "la porte",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour entrer dans la pièce, il faut ouvrir la ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ドア"
+            }
+        },
+        "choices": [
+            "エアコン",
+            "リモコン",
+            "クレジットカード",
+            "ランプ"
+        ]
+    },
+    {
+        "word": "ランプ",
+        "translation": "la lampe",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour lire le soir, j'allume ma ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ランプ"
+            }
+        },
+        "choices": [
+            "エアコン",
+            "リモコン",
+            "クレジットカード",
+            "ドア"
+        ]
+    },
+    {
+        "word": "タボル",
+        "translation": "la table",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Je mets mes repas sur la ____ dans la salle à manger.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "タボル"
+            }
+        },
+        "choices": [
+            "フォーク",
+            "ナイフ",
+            "スプーン",
+            "トイレ"
+        ]
+    },
+    {
+        "word": "フォーク",
+        "translation": "la fourchette",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Je mange ma salade avec une ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "フォーク"
+            }
+        },
+        "choices": [
+            "タボル",
+            "ナイフ",
+            "スプーン",
+            "トイレ"
+        ]
+    },
+    {
+        "word": "ナイフ",
+        "translation": "le couteau",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Pour couper la viande, j'utilise un ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ナイフ"
+            }
+        },
+        "choices": [
+            "タボル",
+            "フォーク",
+            "スプーン",
+            "トイレ"
+        ]
+    },
+    {
+        "word": "スプーン",
+        "translation": "la cuillère",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Je mange ma soupe avec une ____.",
+            "additionalForms": {
+                "kanji": "匙",
+                "hiragana": "さじ",
+                "katakana": "スプーン"
+            }
+        },
+        "choices": [
+            "タボル",
+            "フォーク",
+            "ナイフ",
+            "トイレ"
+        ]
+    },
+    {
+        "word": "トイレ",
+        "translation": "toilettes",
+        "theme": {
+            "language": "japonais",
+            "name": "Matériel domestique"
+        },
+        "metadata": {
+            "partOfSpeech": "noun",
+            "exemple": "Lorsque j'ai besoin de me laver les mains, je vais aux ____.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "トイレ"
+            }
+        },
+        "choices": [
+            "タボル",
+            "フォーク",
+            "ナイフ",
+            "スプーン"
+        ]
+    }
+]

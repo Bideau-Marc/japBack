@@ -1,0 +1,462 @@
+[
+    {
+        "word": "ア",
+        "translation": "a",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'a'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ア"
+            }
+        },
+        "choices": [
+            "イ",
+            "ウ",
+            "エ",
+            "オ"
+        ]
+    },
+    {
+        "word": "イ",
+        "translation": "i",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'i'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "イ"
+            }
+        },
+        "choices": [
+            "ア",
+            "ウ",
+            "エ",
+            "オ"
+        ]
+    },
+    {
+        "word": "ウ",
+        "translation": "u",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'u'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ウ"
+            }
+        },
+        "choices": [
+            "ア",
+            "イ",
+            "エ",
+            "オ"
+        ]
+    },
+    {
+        "word": "エ",
+        "translation": "e",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'e'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "エ"
+            }
+        },
+        "choices": [
+            "ア",
+            "イ",
+            "ウ",
+            "オ"
+        ]
+    },
+    {
+        "word": "オ",
+        "translation": "o",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'o'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "オ"
+            }
+        },
+        "choices": [
+            "ア",
+            "イ",
+            "ウ",
+            "エ"
+        ]
+    },
+    {
+        "word": "カ",
+        "translation": "ka",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'ka'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "カ"
+            }
+        },
+        "choices": [
+            "キ",
+            "ク",
+            "ケ",
+            "コ"
+        ]
+    },
+    {
+        "word": "キ",
+        "translation": "ki",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'ki'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "キ"
+            }
+        },
+        "choices": [
+            "カ",
+            "ク",
+            "ケ",
+            "コ"
+        ]
+    },
+    {
+        "word": "ク",
+        "translation": "ku",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'ku'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ク"
+            }
+        },
+        "choices": [
+            "カ",
+            "キ",
+            "ケ",
+            "コ"
+        ]
+    },
+    {
+        "word": "ケ",
+        "translation": "ke",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'ke'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ケ"
+            }
+        },
+        "choices": [
+            "カ",
+            "キ",
+            "ク",
+            "コ"
+        ]
+    },
+    {
+        "word": "コ",
+        "translation": "ko",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'ko'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "コ"
+            }
+        },
+        "choices": [
+            "カ",
+            "キ",
+            "ク",
+            "ケ"
+        ]
+    },
+    {
+        "word": "サ",
+        "translation": "sa",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'sa'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "サ"
+            }
+        },
+        "choices": [
+            "シ",
+            "ス",
+            "セ",
+            "ソ"
+        ]
+    },
+    {
+        "word": "シ",
+        "translation": "shi",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'shi'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "シ"
+            }
+        },
+        "choices": [
+            "サ",
+            "ス",
+            "セ",
+            "ソ"
+        ]
+    },
+    {
+        "word": "ス",
+        "translation": "su",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'su'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ス"
+            }
+        },
+        "choices": [
+            "サ",
+            "シ",
+            "セ",
+            "ソ"
+        ]
+    },
+    {
+        "word": "セ",
+        "translation": "se",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'se'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "セ"
+            }
+        },
+        "choices": [
+            "サ",
+            "シ",
+            "ス",
+            "ソ"
+        ]
+    },
+    {
+        "word": "ソ",
+        "translation": "so",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "______ est le caractère katakana pour 'so'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ソ"
+            }
+        },
+        "choices": [
+            "サ",
+            "シ",
+            "ス",
+            "セ"
+        ]
+    },
+    {
+        "word": "タ",
+        "translation": "ta",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'ta'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "タ"
+            }
+        },
+        "choices": [
+            "チ",
+            "ツ",
+            "テ",
+            "ト"
+        ]
+    },
+    {
+        "word": "チ",
+        "translation": "chi",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'chi'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "チ"
+            }
+        },
+        "choices": [
+            "タ",
+            "ツ",
+            "テ",
+            "ト"
+        ]
+    },
+    {
+        "word": "ツ",
+        "translation": "tsu",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'tsu'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ツ"
+            }
+        },
+        "choices": [
+            "タ",
+            "チ",
+            "テ",
+            "ト"
+        ]
+    },
+    {
+        "word": "テ",
+        "translation": "te",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "_____ est le caractère katakana pour 'te'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "テ"
+            }
+        },
+        "choices": [
+            "タ",
+            "チ",
+            "ツ",
+            "ト"
+        ]
+    },
+    {
+        "word": "ト",
+        "translation": "to",
+        "theme": {
+            "language": "japonais",
+            "name": "Katakana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "____ est le caractère katakana pour 'to'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "",
+                "katakana": "ト"
+            }
+        },
+        "choices": [
+            "タ",
+            "チ",
+            "ツ",
+            "テ"
+        ]
+    }
+]

@@ -1,0 +1,1485 @@
+[
+    {
+        "word": "あ",
+        "translation": "a",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "あ est le caractère hiragana pour 'a'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "あ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "い",
+            "う",
+            "え",
+            "お"
+        ]
+    },
+    {
+        "word": "い",
+        "translation": "i",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "い est le caractère hiragana pour 'i'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "い",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "あ",
+            "う",
+            "え",
+            "お"
+        ]
+    },
+    {
+        "word": "う",
+        "translation": "u",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "う est le caractère hiragana pour 'u'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "う",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "あ",
+            "い",
+            "え",
+            "お"
+        ]
+    },
+    {
+        "word": "え",
+        "translation": "e",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "え est le caractère hiragana pour 'e'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "え",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "あ",
+            "い",
+            "う",
+            "お"
+        ]
+    },
+    {
+        "word": "お",
+        "translation": "o",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "お est le caractère hiragana pour 'o'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "お",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "あ",
+            "い",
+            "う",
+            "え"
+        ]
+    },
+    {
+        "word": "か",
+        "translation": "ka",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "か est le caractère hiragana pour 'ka'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "か",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "き",
+            "く",
+            "け",
+            "こ"
+        ]
+    },
+    {
+        "word": "き",
+        "translation": "ki",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "き est le caractère hiragana pour 'ki'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "き",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "か",
+            "く",
+            "け",
+            "こ"
+        ]
+    },
+    {
+        "word": "く",
+        "translation": "ku",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "く est le caractère hiragana pour 'ku'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "く",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "か",
+            "き",
+            "け",
+            "こ"
+        ]
+    },
+    {
+        "word": "け",
+        "translation": "ke",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "け est le caractère hiragana pour 'ke'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "け",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "か",
+            "き",
+            "く",
+            "こ"
+        ]
+    },
+    {
+        "word": "こ",
+        "translation": "ko",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "こ est le caractère hiragana pour 'ko'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "こ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "か",
+            "き",
+            "く",
+            "け"
+        ]
+    },
+    {
+        "word": "さ",
+        "translation": "sa",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "さ est le caractère hiragana pour 'sa'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "さ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "し",
+            "す",
+            "せ",
+            "そ"
+        ]
+    },
+    {
+        "word": "し",
+        "translation": "shi",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "し est le caractère hiragana pour 'shi'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "し",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "さ",
+            "す",
+            "せ",
+            "そ"
+        ]
+    },
+    {
+        "word": "す",
+        "translation": "su",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "す est le caractère hiragana pour 'su'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "す",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "さ",
+            "し",
+            "せ",
+            "そ"
+        ]
+    },
+    {
+        "word": "せ",
+        "translation": "se",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "せ est le caractère hiragana pour 'se'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "せ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "さ",
+            "し",
+            "す",
+            "そ"
+        ]
+    },
+    {
+        "word": "そ",
+        "translation": "so",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "そ est le caractère hiragana pour 'so'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "そ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "さ",
+            "し",
+            "す",
+            "せ"
+        ]
+    },
+    {
+        "word": "な",
+        "translation": "na",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "な est le caractère hiragana pour 'na'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "な",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "に",
+            "ぬ",
+            "ね",
+            "の"
+        ]
+    },
+    {
+        "word": "に",
+        "translation": "ni",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "に est le caractère hiragana pour 'ni'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "に",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "な",
+            "ぬ",
+            "ね",
+            "の"
+        ]
+    },
+    {
+        "word": "ぬ",
+        "translation": "nu",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぬ est le caractère hiragana pour 'nu'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぬ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "な",
+            "に",
+            "ね",
+            "の"
+        ]
+    },
+    {
+        "word": "ね",
+        "translation": "ne",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ね est le caractère hiragana pour 'ne'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ね",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "な",
+            "に",
+            "ぬ",
+            "の"
+        ]
+    },
+    {
+        "word": "の",
+        "translation": "no",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "の est le caractère hiragana pour 'no'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "の",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "な",
+            "に",
+            "ぬ",
+            "ね"
+        ]
+    },
+    {
+        "word": "は",
+        "translation": "ha",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "は est le caractère hiragana pour 'ha'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "は",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ひ",
+            "ふ",
+            "へ",
+            "ほ"
+        ]
+    },
+    {
+        "word": "ひ",
+        "translation": "hi",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ひ est le caractère hiragana pour 'hi'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ひ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "は",
+            "ふ",
+            "へ",
+            "ほ"
+        ]
+    },
+    {
+        "word": "ふ",
+        "translation": "fu",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ふ est le caractère hiragana pour 'fu'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ふ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "は",
+            "ひ",
+            "へ",
+            "ほ"
+        ]
+    },
+    {
+        "word": "へ",
+        "translation": "he",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "へ est le caractère hiragana pour 'he'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "へ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "は",
+            "ひ",
+            "ふ",
+            "ほ"
+        ]
+    },
+    {
+        "word": "ほ",
+        "translation": "ho",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ほ est le caractère hiragana pour 'ho'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ほ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "は",
+            "ひ",
+            "ふ",
+            "へ"
+        ]
+    },
+    {
+        "word": "ま",
+        "translation": "ma",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ま est le caractère hiragana pour 'ma'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ま",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "み",
+            "む",
+            "め",
+            "も"
+        ]
+    },
+    {
+        "word": "み",
+        "translation": "mi",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "み est le caractère hiragana pour 'mi'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "み",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ま",
+            "む",
+            "め",
+            "も"
+        ]
+    },
+    {
+        "word": "む",
+        "translation": "mu",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "む est le caractère hiragana pour 'mu'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "む",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ま",
+            "み",
+            "め",
+            "も"
+        ]
+    },
+    {
+        "word": "め",
+        "translation": "me",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "め est le caractère hiragana pour 'me'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "め",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ま",
+            "み",
+            "む",
+            "も"
+        ]
+    },
+    {
+        "word": "も",
+        "translation": "mo",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "も est le caractère hiragana pour 'mo'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "も",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ま",
+            "み",
+            "む",
+            "め"
+        ]
+    },
+    {
+        "word": "や",
+        "translation": "ya",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "や est le caractère hiragana pour 'ya'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "や",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ゆ",
+            "よ"
+        ]
+    },
+    {
+        "word": "ゆ",
+        "translation": "yu",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ゆ est le caractère hiragana pour 'yu'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ゆ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "や",
+            "よ"
+        ]
+    },
+    {
+        "word": "よ",
+        "translation": "yo",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "よ est le caractère hiragana pour 'yo'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "よ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "や",
+            "ゆ"
+        ]
+    },
+    {
+        "word": "ら",
+        "translation": "ra",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ら est le caractère hiragana pour 'ra'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ら",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "り",
+            "る",
+            "れ",
+            "ろ"
+        ]
+    },
+    {
+        "word": "り",
+        "translation": "ri",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "り est le caractère hiragana pour 'ri'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "り",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ら",
+            "る",
+            "れ",
+            "ろ"
+        ]
+    },
+    {
+        "word": "る",
+        "translation": "ru",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "る est le caractère hiragana pour 'ru'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "る",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ら",
+            "り",
+            "れ",
+            "ろ"
+        ]
+    },
+    {
+        "word": "れ",
+        "translation": "re",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "れ est le caractère hiragana pour 're'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "れ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ら",
+            "り",
+            "る",
+            "ろ"
+        ]
+    },
+    {
+        "word": "ろ",
+        "translation": "ro",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ろ est le caractère hiragana pour 'ro'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ろ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ら",
+            "り",
+            "る",
+            "れ"
+        ]
+    },
+    {
+        "word": "わ",
+        "translation": "wa",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "わ est le caractère hiragana pour 'wa'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "わ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "を"
+        ]
+    },
+    {
+        "word": "を",
+        "translation": "wo",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "を est le caractère hiragana pour 'wo'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "を",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "わ"
+        ]
+    },
+    {
+        "word": "が",
+        "translation": "ga",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "が est le caractère hiragana pour 'ga'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "が",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ぎ",
+            "ぐ",
+            "げ",
+            "ご"
+        ]
+    },
+    {
+        "word": "ぎ",
+        "translation": "gi",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぎ est le caractère hiragana pour 'gi'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぎ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "が",
+            "ぐ",
+            "げ",
+            "ご"
+        ]
+    },
+    {
+        "word": "ぐ",
+        "translation": "gu",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぐ est le caractère hiragana pour 'gu'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぐ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "が",
+            "ぎ",
+            "げ",
+            "ご"
+        ]
+    },
+    {
+        "word": "げ",
+        "translation": "ge",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "げ est le caractère hiragana pour 'ge'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "げ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "が",
+            "ぎ",
+            "ぐ",
+            "ご"
+        ]
+    },
+    {
+        "word": "ご",
+        "translation": "go",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ご est le caractère hiragana pour 'go'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ご",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "が",
+            "ぎ",
+            "ぐ",
+            "げ"
+        ]
+    },
+    {
+        "word": "ざ",
+        "translation": "za",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ざ est le caractère hiragana pour 'za'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ざ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "じ",
+            "ず",
+            "ぜ",
+            "ぞ"
+        ]
+    },
+    {
+        "word": "じ",
+        "translation": "ji",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "じ est le caractère hiragana pour 'ji'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "じ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ざ",
+            "ず",
+            "ぜ",
+            "ぞ"
+        ]
+    },
+    {
+        "word": "ず",
+        "translation": "zu",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ず est le caractère hiragana pour 'zu'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ず",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ざ",
+            "じ",
+            "ぜ",
+            "ぞ"
+        ]
+    },
+    {
+        "word": "ぜ",
+        "translation": "ze",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぜ est le caractère hiragana pour 'ze'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぜ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ざ",
+            "じ",
+            "ず",
+            "ぞ"
+        ]
+    },
+    {
+        "word": "ぞ",
+        "translation": "zo",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぞ est le caractère hiragana pour 'zo'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぞ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ざ",
+            "じ",
+            "ず",
+            "ぜ"
+        ]
+    },
+    {
+        "word": "だ",
+        "translation": "da",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "だ est le caractère hiragana pour 'da'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "だ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ぢ",
+            "づ",
+            "で",
+            "ど"
+        ]
+    },
+    {
+        "word": "ぢ",
+        "translation": "ji",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぢ est le caractère hiragana pour 'ji' dans un contexte spécifique.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぢ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "だ",
+            "づ",
+            "で",
+            "ど"
+        ]
+    },
+    {
+        "word": "づ",
+        "translation": "zu",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "づ est le caractère hiragana pour 'zu' dans un contexte spécifique.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "づ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "だ",
+            "ぢ",
+            "で",
+            "ど"
+        ]
+    },
+    {
+        "word": "で",
+        "translation": "de",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "で est le caractère hiragana pour 'de'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "で",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "だ",
+            "ぢ",
+            "づ",
+            "ど"
+        ]
+    },
+    {
+        "word": "ど",
+        "translation": "do",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ど est le caractère hiragana pour 'do'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ど",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "だ",
+            "ぢ",
+            "づ",
+            "で"
+        ]
+    },
+    {
+        "word": "ば",
+        "translation": "ba",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ば est le caractère hiragana pour 'ba'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ば",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "び",
+            "ぶ",
+            "べ",
+            "ぼ"
+        ]
+    },
+    {
+        "word": "び",
+        "translation": "bi",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "び est le caractère hiragana pour 'bi'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "び",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ば",
+            "ぶ",
+            "べ",
+            "ぼ"
+        ]
+    },
+    {
+        "word": "ぶ",
+        "translation": "bu",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぶ est le caractère hiragana pour 'bu'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぶ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ば",
+            "び",
+            "べ",
+            "ぼ"
+        ]
+    },
+    {
+        "word": "べ",
+        "translation": "be",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "べ est le caractère hiragana pour 'be'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "べ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ば",
+            "び",
+            "ぶ",
+            "ぼ"
+        ]
+    },
+    {
+        "word": "ぼ",
+        "translation": "bo",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぼ est le caractère hiragana pour 'bo'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぼ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ば",
+            "び",
+            "ぶ",
+            "べ"
+        ]
+    },
+    {
+        "word": "ぱ",
+        "translation": "pa",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぱ est le caractère hiragana pour 'pa'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぱ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ぴ",
+            "ぷ",
+            "ぺ",
+            "ぽ"
+        ]
+    },
+    {
+        "word": "ぴ",
+        "translation": "pi",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぴ est le caractère hiragana pour 'pi'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぴ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ぱ",
+            "ぷ",
+            "ぺ",
+            "ぽ"
+        ]
+    },
+    {
+        "word": "ぷ",
+        "translation": "pu",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぷ est le caractère hiragana pour 'pu'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぷ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ぱ",
+            "ぴ",
+            "ぺ",
+            "ぽ"
+        ]
+    },
+    {
+        "word": "ぺ",
+        "translation": "pe",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぺ est le caractère hiragana pour 'pe'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぺ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ぱ",
+            "ぴ",
+            "ぷ",
+            "ぽ"
+        ]
+    },
+    {
+        "word": "ぽ",
+        "translation": "po",
+        "theme": {
+            "language": "japonais",
+            "name": "Hiragana"
+        },
+        "metadata": {
+            "partOfSpeech": "syllable",
+            "exemple": "ぽ est le caractère hiragana pour 'po'.",
+            "additionalForms": {
+                "kanji": "",
+                "hiragana": "ぽ",
+                "katakana": ""
+            }
+        },
+        "choices": [
+            "ぱ",
+            "ぴ",
+            "ぷ",
+            "ぺ"
+        ]
+    }
+]
