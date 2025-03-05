@@ -1,0 +1,240 @@
+[
+    {
+        "translation": "tanuki",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "너구리",
+                "romaja": "neoguri"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a une apparence de chien avec une queue épaisse, c'est un __________."
+    },
+    {
+        "translation": "lapin",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "토끼",
+                "romaja": "tokki"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a de grandes oreilles et aime les carottes, c'est un __________."
+    },
+    {
+        "translation": "vache",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "소",
+                "romaja": "so"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il donne du lait et a des cornes, c'est une __________."
+    },
+    {
+        "translation": "mouton",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "양",
+                "romaja": "yang"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a une laine douce et aime brouter l'herbe, c'est un __________."
+    },
+    {
+        "translation": "chèvre",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "염소",
+                "romaja": "yeomso"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a des cornes courbées et aime grimper, c'est une __________."
+    },
+    {
+        "translation": "cochon",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "돼지",
+                "romaja": "dwaeji"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il aime se rouler dans la boue et fait 'groin', c'est un __________."
+    },
+    {
+        "translation": "cheval",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "말",
+                "romaja": "mal"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il court vite et a une crinière, c'est un __________."
+    },
+    {
+        "translation": "cerf",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "사슴",
+                "romaja": "saseum"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a des bois ramifiés et vit dans les forêts, c'est un __________."
+    },
+    {
+        "translation": "poule",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "닭",
+                "romaja": "dak"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il donne des œufs et fait 'cot-cot', c'est une __________."
+    },
+    {
+        "translation": "écureuil",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "다람쥐",
+                "romaja": "daramjwi"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a une queue touffue et aime les noisettes, c'est un __________."
+    },
+    {
+        "translation": "hérisson",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "고슴도치",
+                "romaja": "goseumdochi"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il a des piquants sur le dos et est très petit, c'est un __________."
+    },
+    {
+        "translation": "hamster",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "햄스터",
+                "romaja": "haemseuteo"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il stocke de la nourriture dans ses joues et court dans une roue, c'est un __________."
+    },
+    {
+        "translation": "furet",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "페럿",
+                "romaja": "pereot"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il est souvent vu en train de se faufiler dans des endroits étroits, c'est un __________."
+    },
+    {
+        "translation": "dromadaire",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "낙타",
+                "romaja": "nakta"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il porte des charges sur le dos et vit dans des déserts, c'est un __________."
+    },
+    {
+        "translation": "âne",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "사슴",
+                "romaja": "saseum"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il est souvent utilisé comme bête de somme et a de grandes oreilles, c'est un __________."
+    },
+    {
+        "translation": "poule",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "닭",
+                "romaja": "dak"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Elle picore le sol et donne des œufs, c'est une __________."
+    },
+    {
+        "translation": "souris",
+        "representation": {
+            "koreanWord": {
+                "hangeul": "쥐",
+                "romaja": "jwi"
+            }
+        },
+        "theme": {
+            "language": "Coréen",
+            "name": "Animaux"
+        },
+        "exemple": "Complétez la phrase : 'Il est petit et adore le fromage, c'est un __________."
+    }
+]
